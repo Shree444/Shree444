@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shree444&label=Profile%20views&color=0e75b6&style=flat" alt="shree444" /> </p>
 
-- 🔭 I’m currently working on [Car Price Prediction using Random Forest Regression](https://github.com/Shree444/Car-Price-Prediction)
+- 🔭 I’m currently looking for Data Analyst/Business Analyst Jobs to showcase my Data Analysis Skills I have learned in SSN School of Advanced Career Education, Chennai.
 
 - 🌱 I’m currently learning **MySQL, Tableau, Machine Learning, Pandas.**
 
